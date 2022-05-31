@@ -1,0 +1,16 @@
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.deps.json
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.runtimeconfig.json
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.runtimeconfig.dev.json
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.dll
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.pdb
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.dll
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.pdb
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.csproj.AssemblyReference.cache
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.AssemblyInfoInputs.cache
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.AssemblyInfo.cs
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.csproj.CoreCompileInputs.cache
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.csproj.CopyComplete
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.dll
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.pdb
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.genruntimeconfig.cache

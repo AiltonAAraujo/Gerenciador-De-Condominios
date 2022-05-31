@@ -1,0 +1,10 @@
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.BLL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.deps.json
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.BLL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.dll
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.BLL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.pdb
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.AssemblyInfoInputs.cache
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.AssemblyInfo.cs
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.csproj.CoreCompileInputs.cache
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.dll
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.pdb
+E:\Udemy\GerenciadorCondominios-master\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.csproj.AssemblyReference.cache
